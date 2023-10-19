@@ -1,9 +1,10 @@
 # MPGtoMP4
-When you want to change MPG movies into MP4 without using any unfamiliar services, just use this code on your python environment.
+When you want to convert MPG movies to MP4 without using unfamiliar services, simply use this code in your Python environment.
 
-## Before use this code
-Just create an environment containing moviepy package.
+## Before using this code
+Create an environment with the moviepy library.
 
 ## When you use this code
-Activate the environment containing moviepy package.
-Place the .ipynb file in the folder which contains the folders for input/output.
+Activate the environment with the moviepy library.
+Place the .ipynb file in the folder that contains the input/output directories.
+
